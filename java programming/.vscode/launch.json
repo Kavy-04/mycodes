@@ -1,0 +1,52 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "TwoD_array",
+      "request": "launch",
+      "mainClass": "TwoD_array",
+      "projectName": "java programming_9dcce79e"
+    },
+    {
+      "type": "java",
+      "name": "ArrayDemo1",
+      "request": "launch",
+      "mainClass": "ArrayDemo1",
+      "projectName": "java programming_9dcce79e"
+    },
+    {
+      "type": "java",
+      "name": "ArrayDemo1",
+      "request": "launch",
+      "mainClass": "com.example.ArrayDemo1",
+      "projectName": "java programming_9dcce79e"
+    },
+    {
+      "type": "java",
+      "name": "escap_sequence",
+      "request": "launch",
+      "mainClass": "com.example.escap_sequence",
+      "projectName": "java programming_9dcce79e"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/91963/Desktop/dsa programing",
+      "program": "c:/Users/91963/Desktop/dsa programing/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
